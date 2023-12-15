@@ -1,5 +1,5 @@
 .content{
-    background-color: black;
+    background-color: rgb(104, 102, 102);
     height: 100px;
 }
 h3{
@@ -11,7 +11,7 @@ h3{
 
 }
 p{
-    color:darkgreen;
+    color:rgb(47, 213, 28);
     text-align: center;
 
 }
